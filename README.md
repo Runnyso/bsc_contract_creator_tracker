@@ -5,6 +5,7 @@ Real-time feed of **every single token contract** deployed on Binance Smart Chai
 This is ground zero:  
 the exact moment a dev (or team) launches their memecoin, scam, or moonshot.
 
+
 ### Why this is pure alpha
 - See the creator wallet before they hide it  
 - Catch honeypots at birth  
